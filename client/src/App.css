@@ -1,0 +1,67 @@
+.App {
+  background-color:rgb(81, 79, 79);
+}
+
+.header1 {
+  font-size: 20px;
+}
+
+.gradeDisplay{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
+  border: 10px solid white;
+  width:100%;
+  color: black;
+  padding-left:10px;
+}
+
+.deleteButton {
+  background: rgb(216, 216, 220);
+  border:none;
+}
+
+.editButton {
+  padding: 3.5px;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-left: 5px;
+  color: black;
+  text-decoration: none;
+  background: rgb(216, 216, 220);
+}
+
+.gradeLabel {
+  border: 2px solid black;
+  padding-right:10px;
+  padding-left:10px;
+}
+
+.createGrade {
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.calculateOverall {
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.gradeInput {
+  width: 60%;
+}
+
+.calculateFinal {
+  padding-left: 10px;
+  padding-top: 20px;
+}
+
+.gradeNeededLabel {
+  border: 2px solid black;
+  padding-right:10px;
+  padding-left:10px;
+}
+
+
+
+
+
